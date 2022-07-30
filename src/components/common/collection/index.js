@@ -23,7 +23,7 @@ const Collection = ({ list }) => {
             Lucknow, based on trends
           </div>
           <div className="collection-location">
-            <div>All collections in Delhi</div>
+            <div>All collections in Lucknow</div>
             <i className="fi fi-rr-caret-right absolute-center"></i>
           </div>
         </div>
